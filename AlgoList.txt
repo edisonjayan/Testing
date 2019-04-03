@@ -1,0 +1,4 @@
+List of Algorithm with Overview:
+1. Linear Regression
+2. Logistic Regression
+3. 
